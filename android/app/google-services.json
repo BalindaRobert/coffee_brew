@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "73042792292",
+    "project_id": "bagz-coffee",
+    "storage_bucket": "bagz-coffee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73042792292:android:b64bfb21d62a722e3cb471",
+        "android_client_info": {
+          "package_name": "com.example.lewandowski"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73042792292-4bsbfop0lp6u6ecggda3qf61le3kas5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANjQEB1WUEwV7zQDpnc6NuN2HlLqapOAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73042792292-4bsbfop0lp6u6ecggda3qf61le3kas5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
